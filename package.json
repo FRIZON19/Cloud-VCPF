@@ -3,8 +3,8 @@
  "version": "1.0.0",
  "description": "API para validar cpf",
  "author": "First Last <first.last@example.com>",
- "main": "server.js",
-5
+ "main": "erver.js"
+
  "scripts": {
  "start": "node server.js"
  },
